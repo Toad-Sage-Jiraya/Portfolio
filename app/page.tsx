@@ -933,7 +933,7 @@ export default function Portfolio() {
                       <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between mb-4">
                         <div>
                           <h3 className={`text-lg sm:text-xl font-bold ${themeStyles.text} mb-1`}>
-                          WebDeveloperIntern
+                          Web Developer Intern
                           </h3>
                           <p
                             className={`${
@@ -965,7 +965,7 @@ export default function Portfolio() {
                           <ul
                             className={`${isDayMode ? "text-gray-700" : "text-gray-300"} space-y-1 text-xs sm:text-sm`}
                           >
-                            <li>•  Developedandmaintainedwebapplications; collaborated on design, development, and deploy
+                            <li>•  Developed and maintained web applications, collaborated on design, development, and deploy
                             ment of new features.</li>
                           </ul>
                         </div>
@@ -1493,7 +1493,7 @@ export default function Portfolio() {
                   Google
                 </div>
                 <p className={`${isDayMode ? "text-gray-700" : "text-gray-300"} text-sm lg:text-base`}>
-                  Cloud & Security Certified
+                  Analytics & Security Certified
                 </p>
               </motion.div>
               <motion.div
